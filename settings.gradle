@@ -1,3 +1,2 @@
 include ':rzpaas'
-include ':app'
 rootProject.name = "ygutils"
